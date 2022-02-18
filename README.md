@@ -1,1 +1,1 @@
-# Codewars-Python-6kyu
+# My solutions for codewars 6 kyu problems
